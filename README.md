@@ -113,6 +113,9 @@
 | 101   | 12 Machine learning Object Detection                         | [👆](https://amankharwal.medium.com/12-machine-learning-projects-on-object-detection-46b32adc3c37) |
 | 102   | 20 NLP Project with Python                                   | [👆](https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c) |
 | 103   | Learning Material for Deep Learning, ML, Computer Vision and NLP   | [👆](https://github.com/kmario23/deep-learning-drizzle) |
+| 104   | Learning Material for ML,  | [👆](https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265) |
+
+
 ***More Projects list is coming...!!!***
 
 ---
